@@ -1,0 +1,93 @@
+feature
+Company_Size_before_Layoffs
+Year
+Funding_per_Employee_log
+Is_Stage_Unknown
+Money_Raised_log
+Country_Argentina
+Country_Australia
+Country_Austria
+Country_Belgium
+Country_Brazil
+Country_Canada
+Country_Cayman Islands
+Country_Chile
+Country_China
+Country_Czech Republic
+Country_Denmark
+Country_Estonia
+Country_Finland
+Country_France
+Country_Germany
+Country_Hong Kong
+Country_India
+Country_Indonesia
+Country_Ireland
+Country_Israel
+Country_Japan
+Country_Kenya
+Country_Lithuania
+Country_Malaysia
+Country_Mexico
+Country_Netherlands
+Country_New Zealand
+Country_Nigeria
+Country_Norway
+Country_Pakistan
+Country_Portugal
+Country_Romania
+Country_Russia
+Country_Senegal
+Country_Singapore
+Country_South Korea
+Country_Spain
+Country_Sweden
+Country_Switzerland
+Country_Thailand
+Country_UK
+Country_USA
+Country_United Arabian Emirates
+Country_United Kingdom
+Country_Uruquay
+Continent_Africa
+Continent_Asia
+Continent_Europe
+Continent_North America
+Continent_Oceana
+Continent_South America
+Industry_grouped_Consumer
+Industry_grouped_Crypto
+Industry_grouped_Data
+Industry_grouped_Education
+Industry_grouped_Finance
+Industry_grouped_Food
+Industry_grouped_HR
+Industry_grouped_Healthcare
+Industry_grouped_Marketing
+Industry_grouped_Media
+Industry_grouped_Other
+Industry_grouped_Real Estate
+Industry_grouped_Retail
+Industry_grouped_Security
+Industry_grouped_Transportation
+Stage_Acquired
+Stage_Post-IPO
+Stage_Private Equity
+Stage_Seed
+Stage_Series A
+Stage_Series B
+Stage_Series C
+Stage_Series D
+Stage_Series E
+Stage_Series F
+Stage_Series G
+Stage_Series H
+Stage_Series I
+Stage_Series J
+Stage_Subsidiary
+Stage_Unknown
+Size_Category_Enterprise
+Size_Category_Large
+Size_Category_Mid
+Size_Category_Small
+Size_Category_Startup
